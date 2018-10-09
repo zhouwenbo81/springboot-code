@@ -14,3 +14,6 @@ springboot与mail的整合，整合邮箱操作
 
 ### 2018-10-09: springboot-quartz <br>
 springboot与定时任务框架quartz的整合
+
+### 2018-10-09: springboot-core <br>
+
