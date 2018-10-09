@@ -1,8 +1,8 @@
-# springboot-code
 
 # 简介
 
-该资源库保存的是学习Springboot时编写的源代码，作为个人的学习积累
+#### springboot-code 
+    该资源库保存的是学习Springboot时编写的源代码，作为个人的学习积累
 
 # 目录
 
@@ -15,5 +15,6 @@ springboot与mail的整合，整合邮箱操作
 ### 2018-10-09: springboot-quartz <br>
 springboot与定时任务框架quartz的整合
 
-### 2018-10-09: springboot-core <br>
+### 2018-10-09: springboot-redis <br>
+springboot整合redis的学习源码
 
