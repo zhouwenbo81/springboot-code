@@ -1,10 +1,10 @@
 # springboot-code
 
-#简介
+# 简介
 
 该资源库保存的是学习Springboot时编写的源代码，作为个人的学习积累
 
-#目录
+# 目录
 
 ### 2018-10-09: springboot-code <br>
 所有项目的父项目
